@@ -9,7 +9,7 @@ async function getOrders() {
         return products.recordsets;
     }
     catch (error) {
-        console.log(error);
+        console.log(Error Connection Refused);
     }
 }
 
@@ -23,7 +23,7 @@ async function getOrder(orderId) {
 
     }
     catch (error) {
-        console.log(error);
+        console.log(Error Connection Refused);
     }
 }
 
@@ -42,7 +42,7 @@ async function addOrder(order) {
         return insertProduct.recordsets;
     }
     catch (err) {
-        console.log(err);
+        console.log(Error Too long Value);
     }
 
 }
