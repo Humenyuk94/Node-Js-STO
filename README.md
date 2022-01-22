@@ -4,10 +4,17 @@
 схема бд
  
 ![image](https://user-images.githubusercontent.com/80436417/150636133-66aac857-b229-4e57-9b80-68234ed96b20.png)
+
 Розширена діаграма прецедентів
+
 ![image](https://user-images.githubusercontent.com/80436417/150636164-f1f12157-a05d-48dc-93a0-b768a819ce3a.png)
+
 Опис задач, які вирішуються користувачами в системі
+
 ![image](https://user-images.githubusercontent.com/80436417/150636166-54662c15-72fb-4ff5-82c6-dc0c45e50da0.png)
+
 Деталізований опис задач, які вирішуються користувачами в системі
+
 ![image](https://user-images.githubusercontent.com/80436417/150636179-7635d82f-5b56-4f6f-8dc5-eadf30005747.png)
+
 Процес «Замовлення товару»
