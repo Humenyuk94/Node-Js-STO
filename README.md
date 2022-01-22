@@ -18,3 +18,39 @@
 ![image](https://user-images.githubusercontent.com/80436417/150636179-7635d82f-5b56-4f6f-8dc5-eadf30005747.png)
 
 Процес «Замовлення товару»
+
+![image](https://user-images.githubusercontent.com/80436417/150636270-24d410d2-176c-4b73-855b-9695cd769ac0.png)
+
+Структурна схема головного меню для незареєстрованого відвідувача
+
+![image](https://user-images.githubusercontent.com/80436417/150636282-99f58297-1799-44c2-b644-78b798a47ddc.png)
+
+Структурна схема головного меню для зареєстрованого відвідувача
+
+![image](https://user-images.githubusercontent.com/80436417/150636288-7919d1ba-a05e-4f13-b2f9-f8756ae7f618.png)
+
+Форма для реєстрації користувача
+
+![image](https://user-images.githubusercontent.com/80436417/150636290-3aff7186-561a-47a3-83c9-68606accee09.png)
+
+Форма для авторизації користувача
+
+![image](https://user-images.githubusercontent.com/80436417/150636303-e9d0a72b-bfb7-49a5-b404-1de0cfe1371f.png)
+
+Форма для запису на отримання послуг
+
+![image](https://user-images.githubusercontent.com/80436417/150636312-2f107d8f-e7ee-41e1-a2cb-c6a19ba96010.png)
+
+Перегляд користувачем свої записів.
+
+![image](https://user-images.githubusercontent.com/80436417/150636321-24f55aee-6418-4adc-b100-67705c394fca.png)
+
+Перегляд працівником всіх записів.
+
+![image](https://user-images.githubusercontent.com/80436417/150636326-345787a5-2e2f-4f7a-99ad-d984c57913b0.png)
+
+Граф переходів між формами для незареєстрованого відвідувача
+
+![image](https://user-images.githubusercontent.com/80436417/150636331-d66d2c81-6600-473a-afdc-7c0954046d80.png)
+
+Граф переходів між формами для зареєстрованого відвідувача
