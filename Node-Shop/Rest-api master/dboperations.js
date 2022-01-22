@@ -42,7 +42,7 @@ async function addOrder(order) {
         return insertProduct.recordsets;
     }
     catch (err) {
-        console.log(Error Connection Refused);
+        console.log(Error Too long Value);
     }
 
 }
